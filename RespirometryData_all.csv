@@ -1,4 +1,4 @@
-Fly_Date,Butterfly_#,Sex,Age (days),Pre_flight_mass,PreFM_error,FWL,HWL,Post_flight_mass,PostFM_error,mass_diff,thoracic_mass,TM_error,abdominal_mass,AB_error,FMR_avg,RMR,Norm_CO2_avg,Norm_rmr,Flight_CO2_avg/rmr
+Fly_Date,ButterflyNum,Sex,Age (days),Pre_flight_mass,PreFM_error,FWL,HWL,Post_flight_mass,PostFM_error,mass_diff,thoracic_mass,TM_error,abdominal_mass,AB_error,FMR_avg,RMR,Norm_CO2_avg,Norm_rmr,Flight_CO2_avg/rmr
 1/15/2021,KS1,Male,10,0.4677,0.0005,47.10,33.94,0.4496,0.0004,0.0181,-,-,-,-,2.96475,0.430539,6.338999359,0.920545221,6.886135751
 1/16/2021,CS4,Female,8,0.2525,0.0006,43.52,27.86,0.2460,0.0005,0.0065,0.1038,0.0002,0.0822,0.0002,3.51123,0.287293,13.90586139,1.137794059,12.22177359
 1/16/2021,CS7,Female,8,0.2509,0.0006,44.12,29.78,0.2443,0.0006,0.0066,0.1096,0.0002,0.0851,0.0002,2.2324,0.218824,8.897568752,0.872156238,10.20180602
